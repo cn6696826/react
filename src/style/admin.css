@@ -1,0 +1,10 @@
+.container .nav-left {
+  height: calc(100vh);
+  background-color: red;
+}
+.container .main {
+  height: calc(100vh);
+}
+.container .main .content {
+  padding: 20px;
+}

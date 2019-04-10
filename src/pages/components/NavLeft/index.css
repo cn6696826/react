@@ -1,0 +1,13 @@
+.left-menu {
+  background-color: #001529;
+  height: calc(100vh);
+}
+.left-menu .top-icon {
+  height: 100px;
+  line-height: 100px;
+}
+.left-menu .top-icon .icon-my {
+  width: 50px;
+  height: 50px;
+  background-size: 100% 100%;
+}
